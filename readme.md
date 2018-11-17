@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Project Links
-[Project Repo](https://git.generalassemb.ly/agorfine/Project3-Instagram)
+[Project Final](https://herokudeployfinsta.herokuapp.com/)
 
 ## Project Schedule
 
